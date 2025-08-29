@@ -11,14 +11,11 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
   - title: "Portfolio"
     url: /portfolio/
+
+  - title: "Talks"
+    url: /talks/    
         
   - title: "Blog Posts"
     url: /year-archive/
@@ -28,6 +25,16 @@ main:
     
   # - title: "CV"
   #   url: /cv-json/
+
+  - title: "Teaching_edit"
+    url: /teaching/    
     
-  - title: "Guide"
+  - title: "layout_edit"
+    url: /archive-layout-with-content/    
+    
+  - title: "terms_edit"
+    url: /terms/
+
+
+  - title: "Guide_edit"
     url: /markdown/

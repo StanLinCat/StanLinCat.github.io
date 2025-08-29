@@ -175,3 +175,5 @@ This allows you to denote <var>variables</var>.
 {% for post in site.pages %}
 {% include archive-single.html %}
 {% endfor %}
+
+![这是图片](/images/500x300.png "Magic Gardens")

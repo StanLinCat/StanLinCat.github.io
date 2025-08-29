@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 {% include toc %}
-
+#學習md
+![这是图片](/images/500x300.png "Magic Gardens")
 ## Locations of key files/directories
 
 * Basic config options: _config.yml

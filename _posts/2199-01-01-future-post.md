@@ -6,6 +6,7 @@ tags:
   - cool posts
   - category1
   - category2
+excerpt: "這篇文章介紹如何使用 Docker Compose 來部署 Jekyll 技術部落格。"
 ---
 
 This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
