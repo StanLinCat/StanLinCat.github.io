@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en" #"zh-TW" #"en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Stan Lin Cat Page"
+title                    : "Stan Lin Space  "
 title_separator          : "-"
 name                     : &name "Stan Lin"
 description              : &description "personal description"
@@ -87,6 +87,10 @@ publication_category:
     title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
+  patents:
+    title: 'Patents'
+  others:
+    title: 'Others'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
