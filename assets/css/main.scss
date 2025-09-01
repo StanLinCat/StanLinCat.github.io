@@ -41,3 +41,9 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* 自定義樣式 - 修正標籤錨點跳轉位置 */
+.archive__subtitle {
+  scroll-margin-top: 80px; /* 根據你的導航欄高度調整 */
+  padding-top: 1rem;
+}

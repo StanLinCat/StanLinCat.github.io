@@ -5,6 +5,7 @@ author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
+excerpt: 這是預覽摘要範例，有有markdown範例
 ---
 
 {% include toc %}
