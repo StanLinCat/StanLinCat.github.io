@@ -58,12 +58,25 @@
 }
 
 .archive__item-excerpt {
-  margin-top: 0;
+  margin: 0.5em 0 !important;
   font-size: $type-size-6;
 
   & + p {
     text-indent: 0;
   }
+}
+
+.page__date {
+  margin: 0.5em 0 !important;
+}
+
+.archive__item .page__meta,
+.archive__item .page__date {
+  margin-bottom: 0.5em !important;
+}
+
+.archive__item p {
+  margin: 0.5em 0;
 }
 
 .archive__item-teaser {
