@@ -6,14 +6,16 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello! I’m Stan Lin (林昱廷), a firmware engineer at Himax Technologies, specializing in the touch product division. I focus on developing hand and stylus touch algorithms for tablet devices, with a keen interest in applying control theory to human-machine integration.<br>
-I hold a master’s degree in Mechanical Engineering with a focus on Control Systems from National Taiwan University of Science and Technology (NTUST). My graduate research explored nonlinear control systems, with my thesis investigating adaptive attitude control for missiles under uncertain disturbances. During my undergraduate studies, I contributed to a project on muscle fiber vibration signal processing and gesture recognition, the results of which were published in the IEEE Sensors Journal and led to patents in the United States and Taiwan.<br> <br> <br>
+Hello! I’m a firmware engineer at [Himax Technologies](https://www.himax.com.tw/company/), specializing in the touch product division. I focus on developing hand and stylus touch algorithms for tablet devices, with a keen interest in applying control theory to human-machine integration.<br>
+
+I hold a master’s degree in Control Systems Engineering from [National Taiwan University of Science and Technology (NTUST)](https://www.ntust.edu.tw/index.php?Lang=en). My graduate research explored nonlinear control, with my thesis investigating adaptive attitude control for missiles under uncertain disturbances. During my undergraduate studies, I contributed to a project on muscle fiber vibration signal processing and gesture recognition, the results of which were published in the [IEEE Journal](https://ieeexplore.ieee.org/document/9146882) and led to [patents](https://patents.google.com/patent/US11023045B2/) in the United States and Taiwan.<br> <br> <br>
 
 
 關於我
 ======
 你好！我是林昱廷(Stan Lin)，是一名韌體工程師，目前任職於奇景光電的觸控產品部門，專注在平板的手和筆觸控演算法開發，並致力於將控制理論應用於人機整合。<br>
-我擁有臺灣科技大學機械工程控制組碩士學位。主要研究非線性控制系統，畢業論文為不確定性干擾下，飛彈的姿態適應性控制。大學在台科大機械工程系曾參與專題，研究肌纖維震動訊號處理與手勢辨識，發表學術成果於《IEEE Sensors Journal》，該研究取得過美國以及台灣的專利。
+
+我擁有臺灣科技大學機械工程控制組碩士學位。主要研究非線性控制系統，畢業論文為不確定性干擾下，飛彈的姿態適應性控制。大學專題研究肌纖維震動訊號與手勢辨識，發表學術成果於IEEE期刊，該研究取得過美國以及台灣的專利。
 
 
 
